@@ -1,0 +1,1 @@
+roll_no,course_code,semester,quiz_pct,asgn_pct,mid_pct,final_pct,total,letter_gradeBSAI-23-001,CS101,2,73.33,85.00,12.50,66.67,52.92,D
